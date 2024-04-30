@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const NewAuth = require('../NewAuth');
 
 describe('NewAuth entities', () => {

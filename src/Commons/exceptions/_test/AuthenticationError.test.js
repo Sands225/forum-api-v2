@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const AuthenticationError = require('../AuthenticationError');
 const ClientError = require('../ClientError');
 

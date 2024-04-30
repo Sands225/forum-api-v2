@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const createServer = require('../createServer');
 
 describe('HTTP server', () => {

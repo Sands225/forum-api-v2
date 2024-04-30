@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const AuthenticationRepository = require('../AuthenticationRepository');
 
 describe('AuthenticationRepository interface', () => {
